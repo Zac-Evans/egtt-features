@@ -12,7 +12,7 @@
   
 <img src="https://github.com/user-attachments/assets/e4861c88-c2f8-4e5c-b7a0-0cda4806c6e8" width="600">
 
-### - Much faster
+### - Faster loading
   
 | Old | New |
 | --- | --- |
