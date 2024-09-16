@@ -44,3 +44,6 @@
 
 ### - Bug report form (currently emails me)
 <img src="https://github.com/user-attachments/assets/161da31d-8b95-4ea9-921b-fd846fc6be13" width="600">
+
+### - Jira token encryption
+Jira tokens are currently stored unencrypted on the database, which is a potential security risk for our clients. The old app and new app have both been updated to only store and utilize encrypted keys now. The unencrypted Jira tokens are still on the database for now, but they will be removed after a testing period.
