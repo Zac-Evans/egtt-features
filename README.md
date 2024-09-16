@@ -8,8 +8,6 @@
 
 <img src="https://github.com/user-attachments/assets/0cad5c04-bc4e-4296-a0b1-e1fb3abe09ed">
 
-### - Modern UI
-
 ### - Light/Dark Mode
   
 <img src="https://github.com/user-attachments/assets/e4861c88-c2f8-4e5c-b7a0-0cda4806c6e8" width="600">
